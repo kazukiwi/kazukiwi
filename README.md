@@ -1,6 +1,6 @@
 <!-- Banner com GIF -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Kazuki!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Kazuki!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
