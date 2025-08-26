@@ -50,4 +50,3 @@
 <p align="center">
   🖤 <i>"Simplicidade é a máxima sofisticação"</i> 🤍
 </p>
-
