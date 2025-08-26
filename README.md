@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJvNmRhNmszdjhubjU5cnp4b20wdHI4bnVpeHBjd3B4ZjFxMG45eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif" width="300" alt="gif-programming"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="gif-programming"/>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kazukiwi&show_icons=true&theme=blue_navy&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukiwi&layout=compact&theme=blue_navy&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kazukiwi&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukiwi&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
@@ -37,15 +37,15 @@
 ## 🌐 Contato
 <p align="center">
   <a href="https://github.com/kazukiwi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   <a href="mailto:kazukishiroma06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00CFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-<p align="center">💡 Transformando aprendizado em prática e tecnologia em soluções 💡</p>
+<p align="center">💡 Minimalismo, aprendizado e tecnologia caminhando juntos 💡</p>
 
 
