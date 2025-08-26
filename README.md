@@ -1,7 +1,9 @@
 <!-- Banner animado com nome em preto e branco -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=KAZUKI%20SHIROMA&fontColor=ffffff&fontSize=55&fontAlignY=50&animation=wave" alt="banner animado"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Código GIF" width="800" style="position: relative;"/>
+  <h1 style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%); color: white; font-size: 60px; font-family: sans-serif;">KAZUKI SHIROMA</h1>
 </p>
+
 
 ---
 
