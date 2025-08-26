@@ -1,33 +1,35 @@
-<!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o Kazuki</h1>
+<!-- Banner com GIF -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Kazuki!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Programando no PC">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="gif-programming"/>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Explorando **Python, SQL, HTML e Web Design**  
-📚 Apaixonado por **aprendizado contínuo** e boas práticas de programação  
-✨ Sempre em busca de novos desafios no mundo da **tecnologia**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 💻 Explorando **Python, SQL, HTML e Web Design**  
+- ✨ Apaixonado por **boas práticas, segurança e aprendizado constante**  
 
 ---
 
 ## 🔧 Tecnologias
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kazukiwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukiwi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kazukiwi&show_icons=true&theme=blue_navy&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukiwi&layout=compact&theme=blue_navy&hide_border=true"/>
 </p>
 
 ---
@@ -35,15 +37,15 @@
 ## 🌐 Contato
 <p align="center">
   <a href="https://github.com/kazukiwi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:kazukishiroma06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00CFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">⚡ Criando, aprendendo e evoluindo com tecnologia ⚡</p>
+<p align="center">💡 Transformando aprendizado em prática e tecnologia em soluções 💡</p>
 
 
