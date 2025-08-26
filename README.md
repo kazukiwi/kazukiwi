@@ -1,8 +1,8 @@
 <!-- Banner animado com nome em preto e branco -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Código GIF" width="800" style="position: relative;"/>
-  <h1 style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%); color: white; font-size: 60px; font-family: sans-serif;">KAZUKI SHIROMA</h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4MjdxdmVtNzBzZnJvYWxob2loMjkwZGR3MjlvaHJlb21vY3g5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="KAZUKI SHIROMA" width="800"/>
 </p>
+
 
 
 ---
