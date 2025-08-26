@@ -1,6 +1,6 @@
-<!-- Banner com nome em preto e branco -->
+<!-- Banner animado com nome em preto e branco -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=KAZUKI%20SHIROMA&fontColor=ffffff&fontSize=45&fontAlignY=55&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=KAZUKI%20SHIROMA&fontColor=ffffff&fontSize=55&fontAlignY=50&animation=wave" alt="banner animado"/>
 </p>
 
 ---
@@ -34,13 +34,22 @@
 
 ## 🤍 Contato
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazukiwi)
-  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazukishiroma06@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuki-shiroma)
+  <a href="https://github.com/kazukiwi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kazukishiroma06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kazuki-shiroma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 <p align="center">
   🖤 <i>"Simplicidade é a máxima sofisticação"</i> 🤍
+</p>
+
 </p>
