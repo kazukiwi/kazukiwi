@@ -34,17 +34,10 @@
 
 ## 🤍 Contato
 <p align="center">
-  <a href="https://github.com/kazukiwi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:kazukishiroma06@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kazuki-shiroma" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazukiwi)
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazukishiroma06@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuki-shiroma)
 </p>
-
 
 ---
 
