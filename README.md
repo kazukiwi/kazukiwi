@@ -1,9 +1,7 @@
-<!-- Banner animado com nome em preto e branco -->
+<!-- Banner com nome em preto e branco -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4MjdxdmVtNzBzZnJvYWxob2loMjkwZGR3MjlvaHJlb21vY3g5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="KAZUKI SHIROMA" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=KAZUKI%20SHIROMA&fontColor=ffffff&fontSize=55&fontAlignY=50&animation=fadeIn" alt="banner"/>
 </p>
-
-
 
 ---
 
@@ -11,6 +9,7 @@
 <p align="center">
   🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
   💻 Explorando <b>Python, SQL, HTML e Web Design</b><br>
+  🌐 Interessado em <b>Front-end e Back-end</b><br>
   ✨ Minimalista, comprometido com <b>qualidade e aprendizado contínuo</b>
 </p>
 
@@ -19,9 +18,11 @@
 ## ⚙️ Tecnologias
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL"/>
 </p>
 
 ---
@@ -54,4 +55,3 @@
   🖤 <i>"Simplicidade é a máxima sofisticação"</i> 🤍
 </p>
 
-</p>
