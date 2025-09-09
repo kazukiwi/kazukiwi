@@ -1,6 +1,6 @@
 # 💻 Olá, eu sou o **Kazuki Vitor Shiroma**! 👨‍💻
 
-![Welcome GIF](https://media.giphy.com/media/l1J9sEwJ4ECXMvsoA/giphy.gif)
+![Welcome GIF]([https://media.giphy.com/media/l1J9sEwJ4ECXMvsoA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBteWM5cDI3ZTVvaHRrczhnbXZna3VpMDU2OGpvNjkyM2h3NW9sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif))
 
 Bem-vindo ao meu perfil! 🚀  
 Aqui, você encontrará minhas aventuras em **programação**, **desenvolvimento**, e minhas contribuições em **open-source**. Vamos codificar juntos? 👾
