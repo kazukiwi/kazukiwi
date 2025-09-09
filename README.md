@@ -1,49 +1,35 @@
-<!-- Banner com nome em preto e branco -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=KAZUKI%20SHIROMA&fontColor=ffffff&fontSize=55&fontAlignY=50&animation=fadeIn" alt="banner"/>
-</p>
+# Olá, eu sou o **Kazuki Vitor Shiroma** 👨‍💻
+
+![Kazuki Vitor Shiroma](https://media.giphy.com/media/d2pNY4fTuC2V2/giphy.gif)
+
+Bem-vindo ao meu perfil! Aqui você vai encontrar projetos de desenvolvimento, programação, e algumas das minhas contribuições em open source.
+
+### 📍 Local: [Sua cidade ou país]
+### 🛠️ Tecnologias que utilizo:
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 📬 Vamos conversar!
+- [LinkedIn](https://www.linkedin.com/in/kazuki-shiroma/)
+- [Email](kazukishiroma06@gmail.com)
+
+### 📈 Status do GitHub:
+![Kazuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazukivitor&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+### 🔧 Ferramentas e Frameworks:
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+Se você tiver algum projeto interessante ou precisar de ajuda, fique à vontade para me chamar! 😄
 
 ---
 
-## 🖤 Sobre mim
-<p align="center">
-  🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
-  💻 Explorando <b>Python, SQL, HTML e Web Design</b><br>
-  🌐 Interessado em <b>Front-end e Back-end</b><br>
-  ✨ Minimalista, comprometido com <b>qualidade e aprendizado contínuo</b>
-</p>
-
----
-
-## ⚙️ Tecnologias
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL"/>
-</p>
-
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kazukiwi&show_icons=true&theme=github_dark&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukiwi&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000"/>
-</p>
-
----
-
-## 🤍 Contato
-<p align="center">
-  <a href="https://github.com/kazukiwi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:kazukishiroma06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kazuki-shiroma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> "A programação não é apenas escrever código, mas solucionar problemas." - Kazuki Vitor Shiroma
 
 
 ---
