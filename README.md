@@ -23,12 +23,12 @@ Aqui, você encontrará minhas aventuras em **programação**, **desenvolvimento
 ### 📬 Vamos conversar! 📨  
 Você pode me contatar por email:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazukishiroma06@gmail.com)
 
 ---
 
 ### 📈 Status do GitHub:
-![Kazuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazukivitor&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Kazuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazukiwi&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
