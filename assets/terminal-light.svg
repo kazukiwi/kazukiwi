@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="340" viewBox="0 0 620 340" fill="none" role="img" aria-label="Terminal com apresentação"><title>Terminal com apresentação</title><defs>
+<linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#F8FBFF"/><stop offset="1" stop-color="#E3EDFF"/>
+</linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#0A1B3D"/><stop offset="0.55" stop-color="#3B82F6"/><stop offset="1" stop-color="#0284C7"/>
+</linearGradient>
+<linearGradient id="accG" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#0284C7"/>
+</linearGradient>
+<linearGradient id="lineG" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#3B82F6" stop-opacity="0.9"/>
+  <stop offset="0.5" stop-color="#B9CEF5" stop-opacity="0.8"/>
+  <stop offset="1" stop-color="#B9CEF5" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="panelG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#EEF4FF" stop-opacity="1"/>
+  <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+</linearGradient>
+<filter id="blur60" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="60"/></filter>
+<filter id="blur8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" stroke="#B9CEF5" stroke-opacity="0.35" stroke-width="1"/>
+</pattern>
+<radialGradient id="fadeG" cx="0.5" cy="0.45" r="0.65">
+  <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+</radialGradient>
+<mask id="fadeM"><rect width="100%" height="100%" fill="url(#fadeG)"/></mask>
+
+<linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="279" y2="0">
+  <stop offset="0" stop-color="#B9CEF5" stop-opacity="0.55"/>
+  <stop offset="0.5" stop-color="#3B82F6" stop-opacity="1"/>
+  <stop offset="1" stop-color="#B9CEF5" stop-opacity="0.55"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-279 0;620 0" dur="8s" repeatCount="indefinite"/>
+</linearGradient></defs><g>
+  <rect x="0" y="0" width="620" height="340" rx="18" fill="url(#panelG)"/>
+  <rect x="0.5" y="0.5" width="619" height="339" rx="18" stroke="#B9CEF5" stroke-opacity="0.8"/>
+  <rect x="0.5" y="0.5" width="619" height="339" rx="18" stroke="url(#sweep)" stroke-width="1.5"/>
+</g><circle cx="26" cy="24" r="5.5" fill="#1D4ED8" opacity="0.9"/><circle cx="44" cy="24" r="5.5" fill="#3B82F6" opacity="0.9"/><circle cx="62" cy="24" r="5.5" fill="#60A5FA" opacity="0.9"/><text x="310" y="29" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#6F87B6">~/sobre — zsh</text><line x1="1" y1="46" x2="619" y2="46" stroke="#B9CEF5" stroke-opacity="0.7"/><text x="28" y="84" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0284C7" font-weight="700">$<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.05;0.96;1" dur="12.465s" repeatCount="indefinite"/></text><clipPath id="tc0"><rect x="45.458" y="68" width="55" height="22"><animate attributeName="width" values="0;0;55;55;0" keyTimes="0;0.05;0.07;0.96;1" dur="12.465s" repeatCount="indefinite" /></rect></clipPath><text clip-path="url(#tc0)" x="45.458" y="84" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0A1B3D">whoami</text><text x="45.458" y="108" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#4B6393" opacity="0">kazuki shiroma — desenvolvedor full stack<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1;0.12;0.96;1" dur="12.465s" repeatCount="indefinite" /></text><text x="28" y="140" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0284C7" font-weight="700">$<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.17;0.18;0.96;1" dur="12.465s" repeatCount="indefinite"/></text><clipPath id="tc1"><rect x="45.458" y="124" width="107" height="22"><animate attributeName="width" values="0;0;107;107;0" keyTimes="0;0.17;0.23;0.96;1" dur="12.465s" repeatCount="indefinite" /></rect></clipPath><text clip-path="url(#tc1)" x="45.458" y="140" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0A1B3D">cat foco.txt</text><text x="45.458" y="164" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#4B6393" opacity="0">produto, performance e boa experiência<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.28;0.96;1" dur="12.465s" repeatCount="indefinite" /></text><text x="28" y="196" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0284C7" font-weight="700">$<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.33;0.33;0.96;1" dur="12.465s" repeatCount="indefinite"/></text><clipPath id="tc2"><rect x="45.458" y="180" width="133" height="22"><animate attributeName="width" values="0;0;133;133;0" keyTimes="0;0.33;0.39;0.96;1" dur="12.465s" repeatCount="indefinite" /></rect></clipPath><text clip-path="url(#tc2)" x="45.458" y="196" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0A1B3D">ls ./aprendendo</text><text x="45.458" y="220" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#4B6393" opacity="0">rust/  kubernetes/  ia-generativa/<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.44;0.96;1" dur="12.465s" repeatCount="indefinite" /></text><text x="28" y="252" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0284C7" font-weight="700">$<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.49;0.5;0.96;1" dur="12.465s" repeatCount="indefinite"/></text><clipPath id="tc3"><rect x="45.458" y="236" width="90" height="22"><animate attributeName="width" values="0;0;90;90;0" keyTimes="0;0.49;0.54;0.96;1" dur="12.465s" repeatCount="indefinite" /></rect></clipPath><text clip-path="url(#tc3)" x="45.458" y="252" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0A1B3D">echo $CAFE</text><text x="45.458" y="276" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#4B6393" opacity="0">∞  (nível crítico de cafeína)<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.57;0.59;0.96;1" dur="12.465s" repeatCount="indefinite" /></text><text x="28" y="308" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#0284C7" font-weight="700" opacity="0">$<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.6;0.61;0.96;1" dur="12.465s" repeatCount="indefinite" /></text><rect x="45.458" y="294" width="9" height="18" fill="#0284C7" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;0.6;0.61;0.64;0.67;1" dur="12.465s" repeatCount="indefinite" /></rect></svg>

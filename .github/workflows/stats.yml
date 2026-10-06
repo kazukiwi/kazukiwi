@@ -1,0 +1,39 @@
+name: Atualizar painel de números
+
+on:
+  schedule:
+    - cron: "17 */8 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "profile.json"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar SVGs do tema (hero, stack, projetos...)
+        run: node scripts/build-assets.mjs
+
+      - name: Gerar painel com dados reais
+        run: node scripts/stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+
+      - name: Commit das alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(stats): atualiza painel de números"
+          file_pattern: "assets/*.svg"

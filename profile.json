@@ -1,0 +1,46 @@
+{
+  "name": "kazuki shiroma",
+  "handle": "kazukiwi",
+  "status": "disponível para novos projetos",
+  "tagline": "Engenharia de software com foco em produto, performance e design.",
+  "focus": "produto + performance",
+  "roles": ["Full Stack Developer", "Beginner Developer", "AI Tinkerer"],
+  "heroChips": ["JavaScript", "React", "HTML", "Python", "CSS"],
+  "stack": {
+    "Linguagens": ["SQL", "JavaScript", "Python"],
+    "Front-end": ["React", "HTML", "CSS", "JavaScript", "Tailwind CSS", "Chart.js"],
+    "Back-end": ["SQLAlchemy", "Jinja2", "FastAPI", "Django", "GraphQL", "Uvicorn"],
+    "Dados & IA": ["PostgreSQL", "MongoDB", "Pandas", "MySQL", "Alembic"]
+  },
+  "projects": [
+    {
+      "name": "AAPM - Harity",
+      "desc": "Dashboard financeiro de alta performance com análise de dados em tempo real e relatórios operacionais.",
+      "tags": ["Node.js", "TypeScript", "PostgreSQL"],
+      "status": "ativo"
+    },
+    {
+      "name": "MVC - Harity",
+      "desc": "E-commerce headless otimizado para conversão, arquitetura modular e experiência fluida.",
+      "tags": ["React", "D3.js", "WebSocket"],
+      "status": "ativo"
+    },
+    {
+      "name": "Haritex",
+      "desc": "Sistema de PDV integrado com gestão de vendas em tempo real, emissão fiscal e controle de estoque.",
+      "tags": ["Python", "PyTorch", "Docker"],
+      "status": "em desenvolvimento"
+    }
+  ],
+  "links": [
+    { "id": "linkedin", "label": "LinkedIn", "glyph": "in", "url": "https://linkedin.com/in/kazuki-shiroma" },
+    { "id": "email", "label": "E-mail", "glyph": "@", "url": "mailto:kazukishiroma06@gmail.com" },
+    { "id": "site", "label": "Portfólio", "glyph": "↗", "url": "https://harity-tecnology-inc.onrender.com/" }
+  ],
+  "terminal": [
+    { "cmd": "whoami", "out": "kazuki shiroma — desenvolvedor full stack" },
+    { "cmd": "cat foco.txt", "out": "produto, performance e boa experiência" },
+    { "cmd": "ls ./aprendendo", "out": "rust/  kubernetes/  ia-generativa/" },
+    { "cmd": "echo $CAFE", "out": "∞  (nível crítico de cafeína)" }
+  ]
+}

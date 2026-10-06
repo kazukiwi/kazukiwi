@@ -1,0 +1,31 @@
+name: Cobrinha das contribuições
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar animação (paleta azul)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=%231D4ED8&color_dots=%23E2EBFB,%23BDD3FA,%238DB2F5,%233B82F6,%231D4ED8
+            dist/snake-dark.svg?color_snake=%2338BDF8&color_dots=%230C1D44,%2316337D,%231D4ED8,%233B82F6,%2393C5FD
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

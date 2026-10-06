@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="56" viewBox="0 0 185 56" fill="none" role="img" aria-label="Portfólio"><title>Portfólio</title><defs>
+<linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#F8FBFF"/><stop offset="1" stop-color="#E3EDFF"/>
+</linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#0A1B3D"/><stop offset="0.55" stop-color="#3B82F6"/><stop offset="1" stop-color="#0284C7"/>
+</linearGradient>
+<linearGradient id="accG" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#0284C7"/>
+</linearGradient>
+<linearGradient id="lineG" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#3B82F6" stop-opacity="0.9"/>
+  <stop offset="0.5" stop-color="#B9CEF5" stop-opacity="0.8"/>
+  <stop offset="1" stop-color="#B9CEF5" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="panelG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#EEF4FF" stop-opacity="1"/>
+  <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+</linearGradient>
+<filter id="blur60" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="60"/></filter>
+<filter id="blur8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" stroke="#B9CEF5" stroke-opacity="0.35" stroke-width="1"/>
+</pattern>
+<radialGradient id="fadeG" cx="0.5" cy="0.45" r="0.65">
+  <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+</radialGradient>
+<mask id="fadeM"><rect width="100%" height="100%" fill="url(#fadeG)"/></mask>
+
+<linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="83.25" y2="0">
+  <stop offset="0" stop-color="#B9CEF5" stop-opacity="0.55"/>
+  <stop offset="0.5" stop-color="#3B82F6" stop-opacity="1"/>
+  <stop offset="1" stop-color="#B9CEF5" stop-opacity="0.55"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-83.25 0;185 0" dur="5s" repeatCount="indefinite"/>
+</linearGradient></defs><g>
+  <rect x="0" y="0" width="185" height="56" rx="16" fill="url(#panelG)"/>
+  <rect x="0.5" y="0.5" width="184" height="55" rx="16" stroke="#B9CEF5" stroke-opacity="0.8"/>
+  <rect x="0.5" y="0.5" width="184" height="55" rx="16" stroke="url(#sweep)" stroke-width="1.5"/>
+</g><rect x="10" y="10" width="36" height="36" rx="11" fill="url(#accG)"/><text x="28" y="34" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">↗</text><text x="60" y="34" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#0A1B3D">Portfólio</text><path d="M159 22l6 6-6 6" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
